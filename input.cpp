@@ -9,7 +9,7 @@ class Employee{
         float marks;
 
         void takeInput(){
-            cout<<"Enter your name: ";
+            cout<<"Enter your name:";
             getline(cin, firstName);
             cout<<"Enter your age: ";
             cin>>age;
